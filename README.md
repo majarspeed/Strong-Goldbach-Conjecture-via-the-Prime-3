@@ -127,8 +127,7 @@ Every odd number > 5 includes a valid decomposition of the form 3 + p + q
 ```
 
 ---
-note. This proggression can be used for any prime number above 3. it just moves the floor for the proof higher with each iteration. 3 is the smallest so we start with it. 
-Example if you used 5 (5+5+5=15) You would know any proggresions above it would always have a 5 in the decompisistion. 
+note. This progression can be used for any prime number above 3. it just moves the floor for the proof higher with each iteration. 3 is the smallest so we start with it. Example if you used 5 (5+5+5=15) You would know any progressions above it would always have a 5 in the decomposition. 
 ## 🤝 Collaboration
 
 Feedback, discussion, and formal validation are welcome.  
