@@ -127,7 +127,7 @@ Every odd number > 5 includes a valid decomposition of the form 3 + p + q
 ```
 
 ---
-note. This progression can be used for any prime number above 3. it just moves the floor for the proof higher with each iteration. 3 is the smallest so we start with it. Example if you used 5 (5+5+5=15) You would know any progressions above it would always have a 5 in the decomposition. 
+note. This does not mean every decomposition that is valid has to has to include a 3.  only that at least one of the valid decompositions for each odd numbers will contain a 3. 
 
 In conclusion the only way this can be false is if a even prime greater than 2 were to be found. And that by definition is impossible because any prime greater than 2 would be divisible by 2 itself making it not a prime. 
 
